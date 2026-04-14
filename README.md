@@ -33,4 +33,4 @@ what are the colors of a rainbow, I forget.
 * [Sihong's blog :D](https://www.notion.so/Open-Source-Studio-33a7c8dca3458049ad98d791a17b1fc9?source=copy_link)
 * [Inês's blog](https://mariaineslucas.com/spring-2026/open-source-studio)
 * [Kezia's blog ⭐️](https://klogs.e-kezia.com/itp-blog/open-source-studio/am-i-doing-software-really) - hoping to contribute to https://p5xr.org !
-
+* [Vivian's blog ᓚᘏᗢ](https://stripe-practice-efe.notion.site/open-source-studio-3334b775fd2d80fab545c5aaedd283bd?source=copy_link)
